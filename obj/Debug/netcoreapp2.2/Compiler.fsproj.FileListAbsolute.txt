@@ -1,0 +1,10 @@
+/home/codio/workspace/bin/Debug/netcoreapp2.2/Compiler.deps.json
+/home/codio/workspace/bin/Debug/netcoreapp2.2/Compiler.runtimeconfig.json
+/home/codio/workspace/bin/Debug/netcoreapp2.2/Compiler.runtimeconfig.dev.json
+/home/codio/workspace/bin/Debug/netcoreapp2.2/Compiler.dll
+/home/codio/workspace/bin/Debug/netcoreapp2.2/Compiler.pdb
+/home/codio/workspace/obj/Debug/netcoreapp2.2/Compiler.fsprojAssemblyReference.cache
+/home/codio/workspace/obj/Debug/netcoreapp2.2/Compiler.AssemblyInfoInputs.cache
+/home/codio/workspace/obj/Debug/netcoreapp2.2/Compiler.AssemblyInfo.fs
+/home/codio/workspace/obj/Debug/netcoreapp2.2/Compiler.dll
+/home/codio/workspace/obj/Debug/netcoreapp2.2/Compiler.pdb
